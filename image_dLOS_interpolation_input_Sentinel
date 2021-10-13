@@ -1,0 +1,10 @@
+#!/bin/bash
+
+R="-R-116.68/-116.54/33.86/33.96"
+I="-I0.06m"
+I2="-I0.12m"
+
+gmt blockmean input.gmt $R $I -V > input1.dat
+gmt surface input1.dat -Ginput1.grd $I2 -R -T0.2
+gmt grd2xyz input1.grd | sort -n -k2,2 -k1,1 > input.xyz
+
