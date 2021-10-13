@@ -15,6 +15,9 @@ Upload any **".ipynb"**, **".py"**, **".sh"** or **".f"** files to this reposito
 - Proj4: Joint Inversion of GNSS and InSAR
 3. Name all codes ending with the date (MMDDYYYY; if the code is NOT complete) or 'v_x_x_x' (e.g. v_1_0_0; if complete). 
 4. Any input files used in a code can be saved in this repository but do not save output files.
-
+5. Be careful to have a large file (> 100Mb). It will give you an error. 
+> If the file is in the dir, try *git rm --cached filename* \
+> If you already deleted the file, try *git stash* and then \
+> *git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch filename'*
 
 cloned this repository on my Macbook Pro 2015 (Oct 11, 2021)
