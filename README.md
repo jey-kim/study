@@ -20,4 +20,9 @@ Upload any **".ipynb"**, **".py"**, **".sh"** or **".f"** files to this reposito
 > If you already deleted the file, try *git stash* and then \
 > *git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch filename'*
 
-cloned this repository on my Macbook Pro 2015 (Oct 11, 2021)
+
+
+# LOG
+cloned this repository on my Macbook Pro 2015 (Oct 11, 2021);
+2020 imac broken (Dec 10, 2021) ; 
+cloned this repository on my Macbook Pro 2015 reinstalled MacOS (Dec 14, 2021)
