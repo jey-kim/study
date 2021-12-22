@@ -5,6 +5,13 @@
 # I saved edited Jupyter notebooks and associated input files, which are related to the programming assignments of the course, in this directory
 
 
+
+*******************************************************************************************
+***** Reviewing the course material (12/20/2021~              *****************************
+SAVE notebooks in this current working directory ******************************************
+*******************************************************************************************
+
+
 *******************************************************************************************
 ***** The original Jupyter notebooks and input files are provided by the instructor *******
 cd original_notebooks/
@@ -16,5 +23,4 @@ cd original_notebooks/
 cd rough_notebooks/
 *******************************************************************************************
   
-
 
