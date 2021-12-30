@@ -7,19 +7,23 @@
 
 
 *******************************************************************************************
-***** Reviewing the course material (12/20/2021~              *****************************
-SAVE notebooks in this current working directory ******************************************
+***** I am taking the course in the `verified track` 
+to review ML fundamentals and to obtain a verified certificate (12/20/2021~  ).            
+
+SAVE notebooks in this current working directory
+
+******************************************
 *******************************************************************************************
 
 
 *******************************************************************************************
-***** The original Jupyter notebooks and input files are provided by the instructor *******
+***** The original intact Jupyter notebooks and input files provided by the instructor:
 cd original_notebooks/
 *******************************************************************************************
 
 *******************************************************************************************
-***** The roughly edited Jupyter notebooks*************************************************
-***** I went through all of the notebooks, while auditing the course (finished 12/01/2021)*
+***** I went through all of the course materials, while `auditing the course.` 
+The old edited Jupyter notebooks :
 cd rough_notebooks/
 *******************************************************************************************
   
